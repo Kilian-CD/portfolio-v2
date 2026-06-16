@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0kq0n1fa766la.css","style"]
+:HC["/",""]
+:HL["http://127.0.0.1:1337/uploads/vlcsnap_2026_05_01_19h03m36s670_2aefa8ade3.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projets","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sae-101-application-de-gestion-de-client","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-FS6uTjokOObgqOdOfWok"}

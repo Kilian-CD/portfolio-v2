@@ -1,0 +1,4 @@
+:HL["https://www.kiliancd.fr/_next/static/chunks/0kq0n1fa766la.css","style"]
+:HC["https://www.kiliancd.fr",""]
+:HL["/uploads/carbon_1_026a7fc1cc.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projets","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"application-saas-shopify-vigidomaine","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"rmQEjzkATaJTt7XKpsZQI"}

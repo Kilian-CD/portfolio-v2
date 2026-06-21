@@ -1,4 +1,4 @@
 :HL["https://www.kiliancd.fr/_next/static/chunks/0kq0n1fa766la.css","style"]
 :HC["https://www.kiliancd.fr",""]
 :HL["/uploads/Capture_d_ecran_2026_06_16_125324_42bdddd05c.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projets","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sae-301-quizhub-application-dapprentissage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"4xQr-c2s44JNld-4srFZB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projets","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sae-301-quizhub-application-dapprentissage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"rmQEjzkATaJTt7XKpsZQI"}
